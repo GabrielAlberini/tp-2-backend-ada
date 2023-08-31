@@ -45,3 +45,14 @@ tags: ["Ficción", "Filosofía", "Drama"]
 ```
 
 **Es importante notar que los nombres de los autores, los nombres de los libros y las etiquetas comienzan con mayúsculas.**
+
+---
+
+## Requisitos para la entrega
+
+1. El proyecto deberá realizarse de forma individual.
+2. Una vez (y no antes) que el proyecto este finalizado en local, comprimir la carpeta en un archivo `.rar` y enviarla a **gabialberini733@gmail.com**.
+
+#### Tutorial para convertir una carpeta en un archivo .rar
+
+- [Link del tutorial:](https://www.youtube.com/watch?v=LOSnV4stFLQ)

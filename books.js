@@ -1,4 +1,4 @@
-const getAll = () => books
+const getAll = () => {}
 const getById = (id) => {}
 const getByAuthor = (author) => {}
 const getByTag = (tag) => {}
